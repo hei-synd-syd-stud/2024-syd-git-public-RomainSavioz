@@ -36,4 +36,24 @@ Lorsqu'on réouvre le dossier le fichier README a disparu car je suis revenu au 
 
 ### Task 7
 
+1) develop correspond à une autre branche du Master(Main)
+
+2) C'est le hash du commit. Il est utilisé comme identifiant.
+
+3)  Cela indique que feature-auth a été fusionné avec la branche develop
+
+4)  Cela représente l'auteur du commit
+
+5)  Cela montre la version actuel du main
+
+6) Cela merge de feature-auth depuis main
+
+7) checkout de feature depuis main
+
+8) merge de develop depuis main
+
+9) checkout de develop depuis main
+
+10) état du repostory avant modification (initial commit)
+
 ![Gitgraph](img/gitgraph.svg)
