@@ -26,7 +26,7 @@ HEAD me dit sur quel commit vous êtes "branché" actuellement.
 
 MAIN correspond au nom de la branche sur laquelle je me trouve actuellement.
 
-Pour ce qui vient après : `ADD: README file.`. Cela représente le **message de commit** que j'ai fourni lorsque j'ai effectué ce commit. Le message de commit décrit les modifications apportées dans ce commit.
+Pour ce qui vient après : `ADD: README file.`. Cela représente le **message de commit** que j'ai fourni lorsque j'ai effectué ce commit. Le message de commit décrit les modifications apportées dans ce commit...
 
 ### Task 6
 
