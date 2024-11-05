@@ -30,6 +30,8 @@ Pour ce qui vient après : `ADD: README file.`. Cela représente le **message de
 
 ### Task 6
 
+Lorsqu'on réouvre le dossier le fichier README a disparu car je suis revenu au dossier de base. Lorsque je viens au dernier commit, si je réouvre le dossier je retrouve à nouveau mon fichier README
+
 ## Gitgraph
 
 ### Task 7
